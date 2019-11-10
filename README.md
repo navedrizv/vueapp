@@ -1,2 +1,2 @@
-# vueapp
-vue js sample 
+# Vueapp
+Vue js sample apps to demonstrate creating Components, Routing abilities, API fetching
